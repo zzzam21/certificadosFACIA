@@ -120,7 +120,7 @@ View del Seminario internacional de Ingeniería Ambiental
 <img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/d2ed7595-4773-4c03-b74c-f91bb3ef76a2" />
 
 Generación del PDF descargable
-<img width="1920" height="959" alt="image" src="https://github.com/user-attachments/assets/e037647f-5c8c-4c73-adcc-3fa986121519" />
+<img width="1916" height="954" alt="image" src="https://github.com/user-attachments/assets/ccc5f4bb-0664-421b-a04c-633da8121836" />
 
 ---
 
