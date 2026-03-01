@@ -115,9 +115,10 @@ El PDF se genera en tiempo real y puede descargarse directamente desde el navega
 ---
 
 ## Ejemplo
+Pagina en producción: https://certficiadoseminarios.ct.ws/certificatedObsAmb
 
 View del Seminario internacional de Ingeniería Ambiental
-<img width="1919" height="947" alt="image" src="https://github.com/user-attachments/assets/d2ed7595-4773-4c03-b74c-f91bb3ef76a2" />
+<img width="1920" height="996" alt="image" src="https://github.com/user-attachments/assets/880c03f5-7b48-40f1-ae04-78bdc768db86" />
 
 Generación del PDF descargable
 <img width="1916" height="954" alt="image" src="https://github.com/user-attachments/assets/ccc5f4bb-0664-421b-a04c-633da8121836" />
